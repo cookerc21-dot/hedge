@@ -3,9 +3,9 @@
   "agentName": "Hedge",
   "type": "trading",
   "builderCode": "Hedge trader",
-  "description": "Hedge-base trading with optimized conditions",
+  "description": "Hedge-based trader with optimized parameters",
   "template": "agent-trader",
   "slug": "hedge",
   "repoPath": "C:\\Users\\Log\\Desktop\\auto\\4-4 injective\\injective-agent-cli\\projects\\hedge",
-  "createdAt": 1780161250274
+  "createdAt": 1780161687300
 }
