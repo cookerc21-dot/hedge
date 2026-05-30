@@ -3,9 +3,9 @@
   "agentName": "Hedge",
   "type": "trading",
   "builderCode": "Hedge trader",
-  "description": "A hedge-based trading bot that analyzes the best time of day to trade any given asset, calculates optimized stop-loss and take-profit levels based on volatility and market structure, executes delta-neutral hedge positions, and charges a 0.5% performance fee on profits",
+  "description": "Hedge-base trading with optimized conditions",
   "template": "agent-trader",
   "slug": "hedge",
   "repoPath": "C:\\Users\\Log\\Desktop\\auto\\4-4 injective\\injective-agent-cli\\projects\\hedge",
-  "createdAt": 1780154242027
+  "createdAt": 1780161250274
 }

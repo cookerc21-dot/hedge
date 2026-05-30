@@ -10,7 +10,7 @@
     "dev": "tsx src/index.ts"
   },
   "dependencies": {
-    "@injective/agent-sdk": "file:../../packages/sdk",
+    "@injective/agent-sdk": "latest",
     "viem": "~2.47.6",
     "bech32": "2.0.0",
     "express": "^4.21.0",
