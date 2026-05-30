@@ -1,0 +1,1 @@
+{"version":3,"file":"custom-url.js","sourceRoot":"","sources":["../../src/storage/custom-url.ts"],"names":[],"mappings":"AAEA,MAAM,OAAO,gBAAgB;IACnB,GAAG,CAAS;IAEpB,YAAY,GAAW;QACrB,IAAI,CAAC,GAAG,GAAG,GAAG,CAAC;IACjB,CAAC;IAED,KAAK,CAAC,UAAU,CAAC,KAAc,EAAE,KAAc;QAC7C,OAAO,IAAI,CAAC,GAAG,CAAC;IAClB,CAAC;CACF"}
